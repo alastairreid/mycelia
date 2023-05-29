@@ -17,30 +17,31 @@ A list of native pond plants based on lists in
 and
 [GardenWildlife.com](https://gardenwildlife.com/collections/pond-plants)
 
-| Common name | Latin name | Depth | Height | Notes |
+| Common name | Latin name | Depth (cm) | Height (cm) | Notes |
 | ---- | ---- | ---- |
 |  | Alisma Plantago | 0-15 | 60 | |
 | Flowering rush | Butomus Umbellatus | 10-20 | 90 |
 | Water star wort | Calitriche Hamulata | 0-60 | |
-| Starwort | Calitriche Stagnalis | 0-60 |  |
-| Hornwort | Ceratophyllum Demersum |  |  |
-| Needle spike rush | Eleocharis Acicularis | 0-60 | 10 |
+| Starwort | Calitriche Stagnalis | 0-60 | submerged |
+| Hornwort | Ceratophyllum Demersum | 45-90 | submerged |
+| Needle spike rush | Eleocharis Acicularis | 0-60 | 10 | submerged mats |
 |  | Eriophorum Angustifolium | 0-6 | 75 |
 | Frogbit | Hydrocharis Morsus Ranae |  |  |
-| Yellow flag | Iris Pseudacorus |  |  |
-|  | Juncus Ensifolius |  |  |
-|  | Lysimachia Vulgaris |  |
+| Yellow flag | Iris Pseudacorus | 0-20 | 60-90 |
+| Rush | Juncus Articulatus | 0-2 | 40-60 |
+| Rush | Juncus Ensifolius | 0-2 | 20-30 |
+| Yellow loostrife | Lysimachia Vulgaris | 0-6 | 120 | |
 | Purple loosetrife | Lythrum Salicaria | | |
-| Pennyroyal | Mentha Pulegium |  |
+| Pennyroyal | Mentha Pulegium | 0-2 | 20 | |
 | Water mint  | Mentha Aquatica |  |
-|  | Myriophyllum Propium |  |  |
-| White water lily | Nymphaea Alba |  | |
-|  | Persicaria Amphibian |  | |
-| Water crowfoot | Ranunculus Aquatilis  |  |  |
-| Greater spearwort | Ranunculus Lingua Grandiflorus |  |  |
+| Spiked water milfoil | Myriophyllum Propium | 0-30 | semi-submerged? |
+| White water lily | Nymphaea Alba | 45-90 | | 90-150 spread |
+| Amphibian bistort | Persicaria Amphibian | 12-24 | floating |
+| Water crowfoot | Ranunculus Aquatilis  | 10-60 | floating | "best flowering oxygenator" |
+| Greater spearwort | Ranunculus Lingua Grandiflorus | 0-30  | 60 |
 | Water cress | Rorippa Nasturtium-aquaticum | | |
-| ??? bullrush | Typha Gracilis |  |  |
-|  | Vallisneria Spiralis |  |  |
+| ??? bullrush | Typha Gracilis | 10-20 | 90 |
+| Tape grass | Vallisneria Spiralis | 30-60 | submerged |
 
 
 
