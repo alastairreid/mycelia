@@ -21,7 +21,7 @@ Many configurations exist but, in a garden, the most useful have a wood/steel/pl
 
 ## UK sources
 
-- [https://www.directwatertanks.co.uk/ibc-containers/ibc-containers-rebottled]
+- [Direct Water Tanks](https://www.directwatertanks.co.uk/ibc-containers/ibc-containers-rebottled)
 - (many others exist)
 
 

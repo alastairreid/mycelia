@@ -14,7 +14,7 @@ A way of recreating forests that is noted for [biodiversity], growing quickly, u
 ## Explanations
 
 - [Creating tomorrow's forests](https://www.creatingtomorrowsforests.co.uk/blog/the-miyawaki-method-for-creating-forests)
-- [SUGI project](https://www.sugiproject.com/blog/the-miyawaki-method-for-creating-forests)
+- [SUGi project](https://www.sugiproject.com/blog/the-miyawaki-method-for-creating-forests)
 - [North Norfolk District](https://www.north-norfolk.gov.uk/tasks/projects/miyawaki-forest-project/]
 
 
