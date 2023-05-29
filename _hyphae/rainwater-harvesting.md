@@ -6,7 +6,7 @@ notes:
 ---
 
 - System design
-  - https://www.ntotank.com/blog/how-to-design-a-rainwater-harvesting-system
+  - [Design](https://www.ntotank.com/blog/how-to-design-a-rainwater-harvesting-system)
 
 - Components
   - A water tank such as an [IBC]
