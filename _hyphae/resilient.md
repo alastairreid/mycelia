@@ -15,6 +15,6 @@ Unlike a strict interpretation of [rewilding]{% link _hyphae/rewilding %}, a res
 
 Some of the ways to make an environment resilient are
 
-- increase [biodiversity]{% link hyphae/biodiversity %}: at the very least, you will get a Darwinian effect of discovering what plants can survive in your space
+- increase [biodiversity]{% link _hyphae/biodiversity %}: at the very least, you will get a Darwinian effect of discovering what plants can survive in your space
 - design in a way that can handle drought, wind, rain, cold, etc. and shelter plant and animals from extremes
 
