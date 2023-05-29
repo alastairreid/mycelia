@@ -16,7 +16,7 @@ layout: base
   {% if page.examples %}
   Examples:
   {% for note in page.examples %}
-  <a href="{{site.baseurl}}/notes/{{ note | replace: ' ', '-' | downcase }}">{{note}}</a>{% if forloop.last %}{% else %},{% endif %}
+  <a href="{{site.baseurl}}/hyphae/{{ note | replace: ' ', '-' | downcase }}">{{note}}</a>{% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
   <br>
   {% endif %}
@@ -41,15 +41,15 @@ layout: base
 
 {% assign refs = site.data.backrefs["notes"][label] %}
 {% if refs.size > 0 %}
-## Notes related to {{page.title}}
+## Hyphae related to {{page.title}}
 {% for p in refs %} <a href="{{ site.baseurl }}/{{ p[0] }}">{{ p[1][0] }}</a>{% if forloop.last %}{% else %},{% endif %} {% endfor %}
 {% endif %}
 
 {% for x in page.examples %}
-[{{x}}]: {{site.baseurl}}/notes/{{x | replace: ' ', '-' | downcase}}
+[{{x}}]: {{site.baseurl}}/hyphae/{{x | replace: ' ', '-' | downcase}}
 {% endfor %}
 {% for x in page.notes %}
-[{{x}}]: {{site.baseurl}}/notes/{{x | replace: ' ', '-' | downcase}}
+[{{x}}]: {{site.baseurl}}/hyphae/{{x | replace: ' ', '-' | downcase}}
 {% endfor %}
 
 </article>
