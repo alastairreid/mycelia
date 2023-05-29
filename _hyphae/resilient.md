@@ -1,5 +1,6 @@
 ---
 title: Resilient
+layout: post
 ---
 
 > (of a person or animal) able to withstand or recover quickly from difficult conditions
