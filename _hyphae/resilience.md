@@ -21,5 +21,8 @@ Some of the ways to make an environment resilient are
 - increase [biodiversity]: at the very least, you will get a Darwinian effect of discovering what plants can survive in your space
 - design in a way that can handle drought, wind, rain, cold, etc. and shelter plant and animals from extremes
 
+Links
+
+- RHS resilient garden: [book](https://www.dk.com/uk/book/9780241575833-rhs-resilient-garden/), [virtual garden](https://www.dk.com/uk/information/resilient-garden/interactive/index.htm)
 
 {% include links.md %}

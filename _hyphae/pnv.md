@@ -4,6 +4,7 @@ layout: hypha
 notes:
 - rewilding
 - Miyawaki method
+- native plants
 wiki: https://en.wikipedia.org/wiki/Potential_natural_vegetation
 ---
 

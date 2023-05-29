@@ -10,6 +10,8 @@ A very widely used standard for waterproof containers that are available second 
 
 Many configurations exist but, in a garden, the most useful have a wood/steel/plastic base (pallet), a steel cage, a tap/faucet at the bottom.
 
+[This page](https://www.nanolike.com/all-you-need-to-know-on-ibc-tanks/) has more info than you could ever want to know about all things IBC.
+
 ## Uses
 
 - container gardening (1m x 1m raised beds)
@@ -19,7 +21,7 @@ Many configurations exist but, in a garden, the most useful have a wood/steel/pl
 
 ## UK sources
 
-- https://www.directwatertanks.co.uk/ibc-containers/ibc-containers-rebottled
+- [https://www.directwatertanks.co.uk/ibc-containers/ibc-containers-rebottled]
 - (many others exist)
 
 

@@ -14,7 +14,7 @@ notes:
 
 ### Trees
 
-A list of native trees and shrubs from https://www.north-norfolk.gov.uk/tasks/projects/miyawaki-forest-project/
+A list of native trees and shrubs from [https://www.north-norfolk.gov.uk/tasks/projects/miyawaki-forest-project/]
 
 | Shrub (smallest species) |	Sub-tree	| Tree	| Canopy (largest species) |
 | ----- | ------- | -------- | -------- |
@@ -22,13 +22,13 @@ A list of native trees and shrubs from https://www.north-norfolk.gov.uk/tasks/pr
 | Box	| Crab apple	| Grey Willow	| Aspen |
 | Dog rose	| Elder	| Goat Willow	 | Beech |
 | Dogwood 	| Hazel	| Rowan	| Black poplar |
-| Spindle	| Osier Willow	| Small-leaved Lime	Downy birch |
-| Wild privet |	 	| Whitebeam	Hornbeam |
+| Spindle	| Osier Willow	| Small-leaved Lime	| Downy birch |
+| Wild privet |	 	| Whitebeam	| Hornbeam |
 | 	| 	| Wild cherry|	Pedunculate oak |
-| 	| 	|	 	 	Scots pine |
-| 	| 	|	 	 	Sessile oak |
-| 	| 	|	 	 	Silver birch |
-| 	| 	|	 	 	Sycamore |
+| 	| 	|	| 	 	Scots pine |
+| 	| 	|	| 	 	Sessile oak |
+| 	| 	|	| 	 	Silver birch |
+| 	| 	|	| 	 	Sycamore |
 
 
 {% include links.md %}
