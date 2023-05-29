@@ -31,11 +31,8 @@ layout: base
 
   <div class="entry">
     {{ content }}
-  </div>
 
-<br>
--------------------------------------------------------------------------
-<br>
+<hr>
 
 {% assign label = page.id | replace_first: "/", "" %}
 
@@ -52,4 +49,5 @@ layout: base
 [{{x}}]: {{site.baseurl}}/hyphae/{{x | replace: ' ', '-' | downcase}}
 {% endfor %}
 
+</div>
 </article>
