@@ -15,3 +15,5 @@ Some of the challenges in rewilding are
 - Species reintroduction: true rewilding might require the reintroduction of species that
   are extinct in that area. Your neighbours may have opinions if you want to reintroduce
   wolves, beaver, etc.
+
+{% include links.md %}

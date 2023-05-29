@@ -14,3 +14,5 @@ Advantages
    - A Darwinian effect: even if some disaster strikes, some species will hopefully survive and thrive
    - Avoid single points of failure in the ecosystem
 - It's more interesting
+
+{% include links.md %}
