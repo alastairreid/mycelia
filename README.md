@@ -1,5 +1,3 @@
-# mycelia
-
 Information about resilient gardens, rewilding, wildlife corridors and whatever that leads to.
 
 This site is my personal [Zettelkasten](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
