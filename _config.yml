@@ -1,1 +1,14 @@
 theme: minima
+
+title: Mycelia
+author: Alastair Reid
+email: alastair.d.reid@gmail.com
+orcid: 0000-0003-4695-6668
+description: >- # this means to ignore newlines until "baseurl:"
+    Information about resilient gardens, rewilding, wildlife corridors and whatever that leads to.
+baseurl: "/mycelia" # the subpath of your site, e.g. /blog
+url: https://alastairreid.github.io
+personal_url: https://alastairreid.github.io
+github_username:  alastairreid
+linkedin: alastairdreid
+avatar: https://avatars0.githubusercontent.com/u/11474121
