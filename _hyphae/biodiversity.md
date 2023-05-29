@@ -1,6 +1,6 @@
 ---
 title: Biodiversity
-layout: page
+layout: hypha
 ---
 
 Having a large number of different species of

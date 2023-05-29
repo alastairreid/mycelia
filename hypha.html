@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <center>
+    <h1>{{ page.title }}</h1>
+    {% if page.logo %}<img alt="{{page.title}}" src="{{page.logo}}" width="200"><br>{% endif %}
+    {% if page.website %}<a href="{{page.website}}">[Website]</a>{% endif %}
+    {% if page.wiki %}<a href="{{page.wiki}}">[Wikipedia]</a>{% endif %}
+  </center>
+  <br>
+
+  <div style="margin-left:2em; margin-right:2em;">
+  {% if page.examples %}
+  Examples:
+  {% for note in page.examples %}
+  <a href="{{site.baseurl}}/notes/{{ note | replace: ' ', '-' | downcase }}">{{note}}</a>{% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+  <br>
+  {% endif %}
+
+  {% if page.notes %}
+  Notes:
+  {% for note in page.notes %}
+  <a href="{{site.baseurl}}/hyphae/{{ note | replace: ' ', '-' | downcase }}">{{note}}</a>{% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+  <br>
+  {% endif %}
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+{% for x in page.examples %}
+[{{x}}]: {{site.baseurl}}/notes/{{x | replace: ' ', '-' | downcase}}
+{% endfor %}
+{% for x in page.notes %}
+[{{x}}]: {{site.baseurl}}/notes/{{x | replace: ' ', '-' | downcase}}
+{% endfor %}
+
+</article>
