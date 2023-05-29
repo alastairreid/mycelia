@@ -1,6 +1,6 @@
 ---
 title: Rewilding
-layout: post
+layout: page
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Rewilding_(conservation_biology)
