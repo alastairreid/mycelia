@@ -8,5 +8,5 @@ I am not starting with any particular structure in mind. Instead, I am letting i
 connections.
 
 I am not an expert in any of this and, since I am building the site as I read things,
-it may be incorrect, incomplete, biased, out of date, and inks to my original sources will, inevitably break.
+it may be incorrect, incomplete, biased, out of date, and links to my original sources will, inevitably break.
 If you are an expert, I would welcome corrections.
