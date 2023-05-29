@@ -1,7 +1,8 @@
 ---
 title: Biodiversity
 layout: hypha
-notes: resilience
+notes:
+- resilience
 ---
 
 Having a large number of different species of

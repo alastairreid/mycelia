@@ -1,7 +1,9 @@
 ---
-title: Resilient
+title: Resilience
 layout: hypha
-notes: rewilding, biodiversity
+notes:
+- rewilding
+- biodiversity
 ---
 
 > (of a person or animal) able to withstand or recover quickly from difficult conditions

@@ -2,7 +2,9 @@
 title: Rewilding
 layout: hypha
 wiki: https://en.wikipedia.org/wiki/Rewilding_(conservation_biology)
-notes: resilient biodiversity
+notes:
+- resilience
+- biodiversity
 ---
 
 Restoring the environment to a natural state -- as it would be before human intervention.
