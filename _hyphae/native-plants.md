@@ -10,6 +10,7 @@ notes:
 
 ## Native plants in South East England
 
+
 ### Pond plants
 
 A list of native pond plants based on lists in
@@ -47,21 +48,56 @@ and
 
 ### Trees
 
-A list of native trees and shrubs from [North Norfolk Council](https://www.north-norfolk.gov.uk/tasks/projects/miyawaki-forest-project/)
+A list of native trees and shrubs from [North Norfolk Council](https://www.north-norfolk.gov.uk/tasks/projects/miyawaki-forest-project/) and [Woodland trust](https://www.woodlandtrust.org.uk/blog/2021/11/british-trees-to-plant-in-your-garden/)
 
-| Shrub (smallest species) |	Sub-tree	| Tree	| Canopy (largest species) |
-| ----- | ------- | -------- | -------- |
-| Blackthorn	| Common hawthorn	| Field Maple |	Alder |
-| Box	| Crab apple	| Grey Willow	| Aspen |
-| Dog rose	| Elder	| Goat Willow	 | Beech |
-| Dogwood 	| Hazel	| Rowan	| Black poplar |
-| Spindle	| Osier Willow	| Small-leaved Lime	| Downy birch |
-| Wild privet |	 	| Whitebeam	| Hornbeam |
-| 	| 	| Wild cherry|	Pedunculate oak |
-| 	| 	|	| 	 	Scots pine |
-| 	| 	|	| 	 	Sessile oak |
-| 	| 	|	| 	 	Silver birch |
-| 	| 	|	| 	 	Sycamore |
+todo: double check that these are native to SE England, clay soils, etc.
 
+- Shrub
+
+  | Name               | Latin name          | Height |
+  | ------------------ | ------------------- | ------ |
+  | Blackthorn         | Prunus spinosa      | 6-7m   |
+  | Box                | Buxus sempervirens  | 12m    |
+  | Dog rose           | Rosa Canina         | 1.5m   |
+  | Dogwood            | Cornus Sanguinea    | 10m    |
+  | Spindle            | Euonymous Europaea  | 8-9m   |
+  | Wild privet        | Ligustrum vulgare   | 2-4m   |
+
+- Sub-tree
+
+  | Name               | Latin name          | Height |
+  | ------------------ | ------------------- | ------ |
+  | Common hawthorn    | Crataegus monogyna  | 15m    |
+  | Crab apple         | Malus sylvestris    | 2-3m   |
+  | Elder              | Sambucus Nigra      | 10m    |
+  | Hazel              | Corylus avellana    | 10m    |
+  | Osier Willow       | Salix viminalis     | 7m     |
+
+- Tree
+
+  | Name               | Latin name          | Height |
+  | ------------------ | ------------------- | ------ |
+  | Field Maple        | Acer Campestre      | 20m    |
+  | Grey Willow        | Salix Cinerea       | 8-10m  |
+  | Rowan              | Sorbus aucuparia    | 8-15m  |
+  | Small-leaved lime  | Tilius Cordata      | 18m    |
+  | Whitebeam          | Sorbus Aria         | 15m    |
+  | Wild cherry        | Prunus Avium        | 30m    |
+
+- Canopy
+
+  | Name               | Latin name          | Height |
+  | ------------------ | ------------------- | ------ |
+  | Alder              | Alnus Glutinosa     | 28m    |
+  | Aspen              | Populus tremula     | 12-20m |
+  | Beech              | Fagus Sylvatica     | 40m    |
+  | Black poplar       | Populus Nigra       | 30m    |
+  | Downy birch        | Betula Pubescens    | 30m    |
+  | Hornbeam           | Carpinus betulus    | 30m    |
+  | Pedunculate oak    | Quercus Robur       | 40m    |
+  | Scots pine         | Pinus sylvestris    | 35m    |
+  | Sessile oak        | Quercus petraea     | 30-40m |
+  | Silver birch       | Betula pendula      | 15-20m |
+  | Sycamore           | Acer pseudoplatanus | 35m    |
 
 {% include links.md %}

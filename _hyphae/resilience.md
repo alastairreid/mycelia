@@ -23,6 +23,9 @@ Some of the ways to make an environment resilient are
 
 Links
 
-- RHS resilient garden: [book](https://www.dk.com/uk/book/9780241575833-rhs-resilient-garden/), [virtual garden](https://www.dk.com/uk/information/resilient-garden/interactive/index.htm)
+- RHS resilient garden: [book][RHS resilient garden book], [virtual garden][RHS resilient garden virtual site]
 
 {% include links.md %}
+
+[RHS resilient garden book]: https://www.dk.com/uk/book/9780241575833-rhs-resilient-garden/
+[RHS resilient garden virtual site]: https://www.dk.com/uk/information/resilient-garden/interactive/index.htm
