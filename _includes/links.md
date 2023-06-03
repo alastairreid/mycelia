@@ -1,11 +1,11 @@
 -------------------------------------------------------------
 
-{% assign label = page.id | replace_first: "/", "" %}
-
+{% assign label = page.slug %}
 {% assign refs = site.data.backrefs[label] %}
+
 {% if refs.size > 0 %}
-## Hyphae related to {{page.title}}
-{% for p in refs %} <a href="{{ site.baseurl }}/hyphae/{{ p[0] }}">{{p[1]}}</a>{% if forloop.last %}{% else %},{% endif %} {% endfor %}
+Hyphae related to {{page.title}}:
+{% for p in refs %} <a href="{{ site.baseurl }}/hyphae/{{p[0]}}">{{p[1]}}</a>{% if forloop.last %}{% else %},{% endif %} {% endfor %}
 {% endif %}
 
 {% for x in page.examples %}
