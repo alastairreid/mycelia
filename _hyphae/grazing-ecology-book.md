@@ -8,3 +8,4 @@ notes:
 - rewilding
 ---
 
+{% include links.md %}

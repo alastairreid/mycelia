@@ -13,3 +13,5 @@ notes:
 
 A book about [rewilding] a conventional intensive farm (the [Knepp farm])
 inspired by [Oostvaardersplassen].
+
+{% include links.md %}
