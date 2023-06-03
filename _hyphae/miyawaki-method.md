@@ -13,8 +13,8 @@ A way of recreating forests that is noted for
 
 Some key features are
 
-- [PNV]: Use of [native plants]
-- [biodiversity]: many different species are used
+- [PNV] - Use of [native plants]
+- [biodiversity] - many different species are used
 - soil improvement before planting
 - dense planting to create competition for light and other resources
 

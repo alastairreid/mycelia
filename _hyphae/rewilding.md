@@ -5,6 +5,9 @@ wiki: https://en.wikipedia.org/wiki/Rewilding_(conservation_biology)
 notes:
 - resilience
 - biodiversity
+- Oostvaardersplassen
+- Knepp farm
+- Wilding book
 ---
 
 Restoring the environment to a natural state -- as it would be before human intervention.

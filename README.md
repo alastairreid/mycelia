@@ -1,4 +1,5 @@
-Information about [resilient] gardens, [rewilding], [biodiversity], wildlife corridors and whatever that leads to.
+A
+<a href="https://alastairreid.github.io/mycelia/">website</a> collecting information about [resilient] gardens, [rewilding], [biodiversity], wildlife corridors and whatever that leads to.
 
 This site is my personal [Zettelkasten].
 It is my attempt to organize information as I read things by creating a network of concepts with lots of interconnections.
