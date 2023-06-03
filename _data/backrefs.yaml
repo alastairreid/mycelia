@@ -13,7 +13,7 @@ grazing-ecology-book:
 - - oostvaardersplassen
   - Oostvaardersplassen
 - - wilding-book
-  - Wilding (book)
+  - 'Wilding: the return of nature to a British farm (book)'
 ibc:
 - - rainwater-harvesting
   - Rainwater harvesting
@@ -23,12 +23,22 @@ knepp-farm:
 - - rewilding
   - Rewilding
 - - wilding-book
-  - Wilding (book)
+  - 'Wilding: the return of nature to a British farm (book)'
 miyawaki-method:
 - - ibc
   - Intermediate Bulk Container (IBC)
 - - pnv
   - Potential natural vegetation (PNV)
+mycelia:
+- - mycorrhiza
+  - Mycorrhiza
+- - no-dig-gardening
+  - No dig gardening
+mycorrhiza:
+- - mycelia
+  - Mycelia
+- - no-dig-gardening
+  - No dig gardening
 native-plants:
 - - miyawaki-method
   - Miyawaki method forest
@@ -42,7 +52,7 @@ oostvaardersplassen:
 - - rewilding
   - Rewilding
 - - wilding-book
-  - Wilding (book)
+  - 'Wilding: the return of nature to a British farm (book)'
 pnv:
 - - miyawaki-method
   - Miyawaki method forest
@@ -61,6 +71,8 @@ resilience:
 - - rewilding
   - Rewilding
 rewilding:
+- - feral-book
+  - 'Feral: rewilding the land, sea and human life'
 - - grazing-ecology-book
   - Grazing ecology and forest history (book)
 - - knepp-farm
@@ -76,7 +88,7 @@ rewilding:
 - - resilience
   - Resilience
 - - wilding-book
-  - Wilding (book)
+  - 'Wilding: the return of nature to a British farm (book)'
 wilding-book:
 - - knepp-farm
   - Knepp farm
