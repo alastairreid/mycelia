@@ -8,6 +8,7 @@ layout: default
     <h1>{{ page.title }}</h1>
     {% if page.book_author %}Author: {{page.book_author}}<br>{% endif %}
     {% if page.book_publisher %}Publisher: {{page.book_publisher}}<br>{% endif %}
+    {% if page.book_isbn %}ISBN: {{page.book_isbn}}<br>{% endif %}
     {% if page.book_year %}{{page.book_year}}<br>{% endif %}
     {% if page.logo %}<img alt="{{page.title}}" src="{{page.logo}}" width="200"><br>{% endif %}
     {% if page.website %}<a href="{{page.website}}">[Website]</a>{% endif %}

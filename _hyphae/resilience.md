@@ -4,6 +4,8 @@ layout: hypha
 notes:
 - rewilding
 - biodiversity
+- Resilient garden book
+- hugelkultur
 ---
 
 > (of a person or animal) able to withstand or recover quickly from difficult conditions
@@ -23,9 +25,7 @@ Some of the ways to make an environment resilient are
 
 Links
 
-- RHS resilient garden: [book][RHS resilient garden book], [virtual garden][RHS resilient garden virtual site]
+- [Resilient garden book]
+
 
 {% include links.md %}
-
-[RHS resilient garden book]: https://www.dk.com/uk/book/9780241575833-rhs-resilient-garden/
-[RHS resilient garden virtual site]: https://www.dk.com/uk/information/resilient-garden/interactive/index.htm

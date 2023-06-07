@@ -7,6 +7,7 @@ notes:
 - Knepp farm
 - grazing-ecology-book
 - rewilding
+- Wood pasture hypothesis
 ---
 
 {% include links.md %}

@@ -7,6 +7,7 @@ notes:
 - rewilding
 - Oostvaardersplassen
 - Grazing ecology book
+- Wood pasture hypothesis
 ---
 
 {% include links.md %}
