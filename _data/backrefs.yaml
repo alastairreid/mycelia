@@ -7,6 +7,10 @@ biodiversity:
   - Resilience
 - - rewilding
   - Rewilding
+- - wilding-book
+  - 'Wilding: the return of nature to a British farm (book)'
+- - wood-pasture-hypothesis
+  - Wood pasture hypothesis
 grazing-ecology-book:
 - - knepp-farm
   - Knepp farm
@@ -14,6 +18,15 @@ grazing-ecology-book:
   - Oostvaardersplassen
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
+- - wood-pasture-hypothesis
+  - Wood pasture hypothesis
+hugelkultur:
+- - permaculture
+  - Permaculture
+- - resilience
+  - Resilience
+- - resilient-garden-book
+  - 'Resilient garden: sustainable gardening for a changing climate (book)'
 ibc:
 - - rainwater-harvesting
   - Rainwater harvesting
@@ -24,6 +37,8 @@ knepp-farm:
   - Rewilding
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
+- - wood-pasture-hypothesis
+  - Wood pasture hypothesis
 miyawaki-method:
 - - ibc
   - Intermediate Bulk Container (IBC)
@@ -39,6 +54,8 @@ mycorrhiza:
   - Mycelia
 - - no-dig-gardening
   - No dig gardening
+- - wilding-book
+  - 'Wilding: the return of nature to a British farm (book)'
 native-plants:
 - - miyawaki-method
   - Miyawaki method forest
@@ -53,6 +70,13 @@ oostvaardersplassen:
   - Rewilding
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
+- - wood-pasture-hypothesis
+  - Wood pasture hypothesis
+permaculture:
+- - hugelkultur
+  - "H\xFCgelkultur"
+- - vermicomposting
+  - Vermicomposting
 pnv:
 - - miyawaki-method
   - Miyawaki method forest
@@ -61,6 +85,8 @@ pnv:
 rainwater-harvesting:
 - - ibc
   - Intermediate Bulk Container (IBC)
+- - permaculture
+  - Permaculture
 resilience:
 - - biodiversity
   - Biodiversity
@@ -68,8 +94,13 @@ resilience:
   - Miyawaki method forest
 - - native-plants
   - Native plants
+- - resilient-garden-book
+  - 'Resilient garden: sustainable gardening for a changing climate (book)'
 - - rewilding
   - Rewilding
+resilient-garden-book:
+- - resilience
+  - Resilience
 rewilding:
 - - feral-book
   - 'Feral: rewilding the land, sea and human life'
@@ -89,6 +120,9 @@ rewilding:
   - Resilience
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
+vermicomposting:
+- - permaculture
+  - Permaculture
 wilding-book:
 - - knepp-farm
   - Knepp farm
@@ -96,6 +130,15 @@ wilding-book:
   - Oostvaardersplassen
 - - rewilding
   - Rewilding
+wood-pasture-hypothesis:
+- - grazing-ecology-book
+  - Grazing ecology and forest history (book)
+- - knepp-farm
+  - Knepp farm
+- - oostvaardersplassen
+  - Oostvaardersplassen
+- - wilding-book
+  - 'Wilding: the return of nature to a British farm (book)'
 zettelkasten:
 - - zettelkasten
   - Zettelkasten
