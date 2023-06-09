@@ -17,7 +17,7 @@ notes:
 ---
 
 A book about [rewilding] a conventional intensive English farm (the [Knepp farm])
-inspired by an understanding of [Mycorrhiza] and soil quality, and[Oostvaardersplassen] and a recognition that intensive farming was no longer financially viable.
+inspired by an understanding of [Mycorrhiza] and soil quality, and [Oostvaardersplassen] and a recognition that intensive farming was no longer financially viable.
 
 It goes through the story of introducing large herbivores, taking fields out of production, (mostly negative) reactions to their project, persuading civil servants, working with their advisory board, etc.
 
