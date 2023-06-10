@@ -4,6 +4,7 @@ layout: hypha
 notes:
 - mycorrhiza
 - mycelia
+- soil health
 ---
 
 An alternative to the conventional wisdom that you have to turn over the soil

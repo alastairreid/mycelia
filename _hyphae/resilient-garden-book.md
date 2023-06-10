@@ -9,6 +9,7 @@ layout: hypha
 notes:
 - hugelkultur
 - resilience
+- soil health
 ---
 
 RHS resilient garden: [book][RHS resilient garden book], [virtual garden][RHS resilient garden virtual site]

@@ -6,6 +6,7 @@ notes:
 - biodiversity
 - Resilient garden book
 - hugelkultur
+- soil health
 ---
 
 > (of a person or animal) able to withstand or recover quickly from difficult conditions

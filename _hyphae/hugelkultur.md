@@ -4,6 +4,8 @@ wiki: https://en.wikipedia.org/wiki/H%C3%BCgelkultur
 layout: hypha
 notes:
 - permaculture
+- fungi
+- soil health
 ---
 
 Hügelkultur is the practice of burying wood to increase soil water retention.
@@ -17,7 +19,7 @@ will drop over time as the wood settles and the wood rots down.
 The benefits are
 
 - it is a carbon sink
-- it improves soil quality (because it is sort of a compost heap and because the wood is broken down by fungi)
+- it improves [soil health] (because it is sort of a compost heap and because the wood is broken down by [fungi])
 - it retains water (because rotting wood can hold a lot of water)
 - in the first year, it will release some heat as the wood decomposes - this is good for the plants that you plant in it
 - you are able to keep waste wood on site rather than spending energy/fuel to take it somewhere else
