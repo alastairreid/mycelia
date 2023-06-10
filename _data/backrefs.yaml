@@ -11,6 +11,13 @@ biodiversity:
   - 'Wilding: the return of nature to a British farm (book)'
 - - wood-pasture-hypothesis
   - Wood pasture hypothesis
+fungi:
+- - hugelkultur
+  - "H\xFCgelkultur"
+- - mycelia
+  - Mycelia
+- - soil-health
+  - Soil health
 grazing-ecology-book:
 - - knepp-farm
   - Knepp farm
@@ -45,15 +52,21 @@ miyawaki-method:
 - - pnv
   - Potential natural vegetation (PNV)
 mycelia:
+- - fungi
+  - Fungi
 - - mycorrhiza
   - Mycorrhiza
 - - no-dig-gardening
   - No dig gardening
 mycorrhiza:
+- - fungi
+  - Fungi
 - - mycelia
   - Mycelia
 - - no-dig-gardening
   - No dig gardening
+- - soil-health
+  - Soil health
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
 native-plants:
@@ -103,7 +116,7 @@ resilient-garden-book:
   - Resilience
 rewilding:
 - - feral-book
-  - 'Feral: rewilding the land, sea and human life'
+  - 'Feral: rewilding the land, sea and human life (book)'
 - - grazing-ecology-book
   - Grazing ecology and forest history (book)
 - - knepp-farm
@@ -118,6 +131,23 @@ rewilding:
   - Potential natural vegetation (PNV)
 - - resilience
   - Resilience
+- - wilding-book
+  - 'Wilding: the return of nature to a British farm (book)'
+soil-health:
+- - hugelkultur
+  - "H\xFCgelkultur"
+- - knepp-farm
+  - Knepp farm
+- - no-dig-gardening
+  - No dig gardening
+- - permaculture
+  - Permaculture
+- - resilience
+  - Resilience
+- - resilient-garden-book
+  - 'Resilient garden: sustainable gardening for a changing climate (book)'
+- - vermicomposting
+  - Vermicomposting
 - - wilding-book
   - 'Wilding: the return of nature to a British farm (book)'
 vermicomposting:
