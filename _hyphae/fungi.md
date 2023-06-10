@@ -1,5 +1,6 @@
 ---
 title: Fungi
+layout: hypha
 notes:
 - mycelia
 - mycorrhiza

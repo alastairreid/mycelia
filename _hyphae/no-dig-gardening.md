@@ -1,6 +1,7 @@
 ---
 title: No dig gardening
 layout: hypha
+wiki: https://en.wikipedia.org/wiki/No-dig_gardening
 notes:
 - mycorrhiza
 - mycelia
