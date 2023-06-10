@@ -1,6 +1,7 @@
 ---
 title: Intermediate Bulk Container (IBC)
 layout: hypha
+wiki: https://en.wikipedia.org/wiki/Intermediate_bulk_container
 notes:
 - rainwater harvesting
 - Miyawaki method

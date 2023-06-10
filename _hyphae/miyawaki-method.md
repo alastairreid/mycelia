@@ -1,6 +1,7 @@
 ---
 title: Miyawaki method forest
 layout: hypha
+wiki: https://en.wikipedia.org/wiki/Akira_Miyawaki
 notes:
 - rewilding
 - resilience
