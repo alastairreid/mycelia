@@ -1,6 +1,6 @@
 A
 <a href="https://alastairreid.github.io/mycelia/">website</a> collecting information about
-<a href="https://alastairreid.github.io/mycelia/hyphae/resilience.html">resilience</a> gardens,
+<a href="https://alastairreid.github.io/mycelia/hyphae/resilience.html">resilient</a> gardens,
 <a href="https://alastairreid.github.io/mycelia/hyphae/rewilding.html">rewilding</a>,
 <a href="https://alastairreid.github.io/mycelia/hyphae/biodiversity.html">biodiversity</a>,
 wildlife corridors
